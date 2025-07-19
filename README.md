@@ -7,10 +7,10 @@ A modern, full-stack eCommerce platform with separate interfaces for **Customers
 ## 📹 Demo Previews
 
 ### 🎥 Customer Experience
-![Customer Demo](media/customer-demo.gif)
+![Customer Demo](https://raw.githubusercontent.com/arshamakhtar/FULL_STACK_ECOMMERCE_SITE/main/public/media/customer-demo.gif)
 
 ### 🎥 Admin Dashboard
-![Admin Demo](media/admin-demo.gif)
+![Admin Demo](https://raw.githubusercontent.com/arshamakhtar/FULL_STACK_ECOMMERCE_SITE/main/public/media/admin-demo.gif)
 
 ---
 
